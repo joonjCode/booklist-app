@@ -8,6 +8,10 @@
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Pages\Model\" />
+  </ItemGroup>
+
 
 
 </Project>
