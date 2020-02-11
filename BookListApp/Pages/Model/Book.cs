@@ -15,5 +15,8 @@ namespace BookListApp.Pages.Model
         public string Name{ get; set; }
 
         public string Author { get; set; }
+
+         // 테이블 추가 및 수정해야할 경우 
+         public string ISBN { get; set; }
     }
 }
